@@ -6159,15 +6159,15 @@ module.exports = {
   "content": {
     "relative": false,
     "files": [
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/components/**/*.{vue,js,ts}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/layouts/**/*.vue",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/pages/**/*.vue",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/composables/**/*.{js,ts}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/plugins/**/*.{js,ts}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/App.{js,ts,vue}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/app.{js,ts,vue}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/Error.{js,ts,vue}",
-      "C:/Users/He Tianxing/Documents/truelot/lottery-combined/error.{js,ts,vue}"
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/components/**/*.{vue,js,ts}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/layouts/**/*.vue",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/pages/**/*.vue",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/composables/**/*.{js,ts}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/plugins/**/*.{js,ts}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/App.{js,ts,vue}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/app.{js,ts,vue}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/Error.{js,ts,vue}",
+      "C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/error.{js,ts,vue}"
     ],
     "extract": {},
     "transform": {}

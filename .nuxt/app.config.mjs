@@ -1,5 +1,5 @@
 
-import { defuFn } from 'C:/Users/He Tianxing/Documents/truelot/lottery-combined/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/xiezh/OneDrive/Desktop/code/club/utcssa/lottery/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
