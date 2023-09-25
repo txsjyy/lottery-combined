@@ -9,9 +9,6 @@
     </nav>
   </div>
   <div class="flex h-screen bg-center bg-no-repeat bg-cover bg-hero-pattern">
-    <header class="absolute w-screen flex items-center justify-center pt-[10vh]">
-      <img src="../assets/font.jpg" class = "scale-150 pb-40" alt="兔年新春晚会抽奖" >
-    </header>
     <div class="column flex flex-col p-5">
       <img src="~/assets/WST.jpg" alt="鸣谢WST赞助" class="mt-auto flex-justify center m-5 scale-125 origin-bottom-left" />
     </div>

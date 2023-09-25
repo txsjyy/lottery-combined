@@ -9,13 +9,11 @@
     </nav>
   </div>
   <div class="flex h-screen bg-center bg-no-repeat bg-cover bg-hero-pattern">
-    <header class="absolute w-screen flex items-center justify-center pt-[10vh]">
-      <!-- <img src="../assets/UTCSSA.jpg" class="scale-50" alt="UTCSSA" > -->
-      <img src="../assets/font.jpg" class = "scale-150 pb-40" alt="兔年新春晚会抽奖" >
-    </header>
+    <!--
     <div class="column flex flex-col p-5">
       <img src="~/assets/WST.jpg" alt="鸣谢WST赞助" class="mt-auto flex-justify center m-5 scale-125 origin-bottom-left" />
     </div>
+    -->
     <main class="m-auto mt-60 w-1/2 min-w-fit overflow-hidden rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 backdrop-blur bg-white bg-opacity-60">
       <div class="center_column">
         <DigitDisplay
@@ -69,9 +67,11 @@
       
       
     </main>
+    <!--
     <div class="column flex flex-col p-5">
       <img src="~/assets/UTA.png" alt="鸣谢Weeee赞助" class="mt-auto flex-justify center m-5 scale-110 origin-bottom-right"/>
     </div>
+    -->
     <footer class="absolute bottom-4 w-screen text-center">
       <span class="text-slate-800">&copy; <strong>UTCSSA</strong> - Alex Kuang and Junyu Yao, 2023.</span>
     </footer>
